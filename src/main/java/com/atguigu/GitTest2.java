@@ -7,6 +7,6 @@ package com.atguigu;
  */
 public class GitTest2 {
     public void abc(){
-
+        System.out.println("branch2 test");
     }
 }
